@@ -1,3 +1,6 @@
+# DEPRECATION WARNING
+This Ansible role has been deprecated in favor of collection [`almaops.monitoring`](https://github.com/almaops/ansible-collection-monitoring/tree/main/roles/ct_loki) and advised to be used instead.
+
 # Disclaimer
 This role is still in beta.
 
